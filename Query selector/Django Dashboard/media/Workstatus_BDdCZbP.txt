@@ -1,0 +1,6 @@
+Work Status:
+
+1. Python Project Poposal work Ongoing: Query Selector by using Django.
+2. Python Project Development Completed: Paddy Plant Disease Prediction using deep learning.
+3. Python project explanation given to already registered student:1-Tamil selvi, Sumathi, Sai sree.
+4. Matlab Project new lead discussion to student: Jagadeshwaran.
